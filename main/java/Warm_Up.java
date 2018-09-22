@@ -58,10 +58,7 @@ public class Warm_Up {
         while((a > 0 || a < 0 ) && b > 0){
             b--;
             c += a;
-        }
-
-
-        return c;
+        }return c;
     }
 }
 
